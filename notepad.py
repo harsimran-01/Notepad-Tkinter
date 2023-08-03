@@ -103,7 +103,8 @@ Features:
 Note: This Notepad application is provided as-is and does not come with advanced features or complex functionalities found in more comprehensive text editors. It is intended for simple and casual text editing purposes.
 
 The source code for this Notepad application is available on GitHub at:
-[GitHub Repository URL]
+harsimran-01
+
 
 Feel free to use and modify this Notepad according to your needs. If you encounter any issues or have suggestions for improvements, please feel free to share them in the GitHub repository.
 
